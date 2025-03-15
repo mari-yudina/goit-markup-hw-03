@@ -1,0 +1,230 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+address {
+  font-style: normal;
+}
+
+.logo-all {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* -----------------HEADER------------------- */
+
+.header {
+}
+
+.header-navigation {
+}
+
+.header-logo {
+}
+
+.header-logo-accent {
+  color: #2e2f42;
+}
+
+.header-menu-list {
+}
+
+.header-menu-item {
+}
+
+.header-menu-link-one:active {
+  color: #404bbf;
+}
+
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
+.header-menu-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.header-address {
+}
+
+.header-address-list {
+}
+
+.header-address-item {
+}
+
+.header-address-linc:hover {
+  color: #404bbf;
+}
+
+.header-address-linc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* ---------------/ HEADER------------------- */
+
+/* ---------------SECTION EFFECTIVE------------------- */
+
+.effective {
+  background: #2e2f42;
+}
+
+.effective-title {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+.effective-btn:hover {
+  background: #404bbf;
+}
+
+.effective-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: #4d5ae5;
+}
+
+/* ---------------/ SECTION EFFECTIVE------------------- */
+
+/* --------------- SECTION ADVSNTAGES------------------- */
+
+.advantages {
+}
+
+.advantages-list {
+}
+
+.advantages-item {
+}
+
+.advantages-subtitle {
+}
+
+.advantages-text {
+}
+
+/* ---------------/ SECTION ADVSNTAGES------------------- */
+
+/* --------------- SECTION OUR TEAM------------------- */
+
+.our-team {
+  background: #f4f4fd;
+}
+
+.our-team-titel {
+}
+
+.our-team-list {
+}
+
+.our-team-item {
+  background: #fff;
+}
+
+.our-team-img {
+}
+
+.our-team-subtitle {
+  text-align: center;
+}
+
+.our-team-text {
+  text-align: center;
+}
+
+/* ---------------/ SECTION OUR TEAM------------------- */
+
+/* --------------- SECTION OUR PORTFOLIO------------------- */
+
+.our-portfolio {
+}
+
+.our-portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.our-portfolio-list {
+}
+
+.our-portfolio-item {
+  background: #fff;
+}
+
+.our-portfolio-img {
+}
+
+.our-portfolio-subtitle {
+}
+
+.our-portfolio-text {
+}
+
+/* ---------------/ SECTION OUR TEAM------------------- */
+
+/* ---------------FOOTER------------------- */
+
+.footer {
+  background: #2e2f42;
+}
+
+.footer-logo {
+}
+
+.footer-accent {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
+}
+
+/* ---------------/ FOOTER------------------- */
