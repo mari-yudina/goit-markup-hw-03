@@ -6,6 +6,8 @@ body {
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
@@ -14,6 +16,21 @@ a {
 
 address {
   font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+.container {
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
 }
 
 .logo-all {
@@ -40,9 +57,19 @@ address {
   color: #434455;
 }
 
+.container { 
+max-width: 
+padding-left:  
+padding-right:  
+margin-left:  
+margin-right:  
+}
+
 /* -----------------HEADER------------------- */
 
 .header {
+   width: 1440px;
+  height: 72px;
 }
 
 .header-navigation {
@@ -105,7 +132,10 @@ address {
 
 .effective {
   background: #2e2f42;
-}
+   width: 1440px;
+  height: 600px;
+  padding-top: 188px 472px;
+ }
 
 .effective-title {
   font-size: 56px;
@@ -113,6 +143,10 @@ address {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  width: 496px;
+  height: 120px;
+  margin: 0 auto;
+  margin-bottom: 48px;
 }
 
 .effective-btn:hover {
@@ -126,6 +160,10 @@ address {
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
+  display: block;
+  margin: 0 auto;
+ 
+  
 }
 
 /* ---------------/ SECTION EFFECTIVE------------------- */
@@ -133,15 +171,20 @@ address {
 /* --------------- SECTION ADVSNTAGES------------------- */
 
 .advantages {
+   width: 1440px;
+  height: 344px;
+   padding: 120px 156px;
 }
 
 .advantages-list {
+ 
 }
 
 .advantages-item {
 }
 
 .advantages-subtitle {
+  margin-bottom: 8px;
 }
 
 .advantages-text {
@@ -153,9 +196,13 @@ address {
 
 .our-team {
   background: #f4f4fd;
+   width: 1440px;
+  height: 732px;
+  padding: 120px 156px;
 }
 
 .our-team-titel {
+  margin-bottom: 72px;
 }
 
 .our-team-list {
@@ -166,14 +213,17 @@ address {
 }
 
 .our-team-img {
+  margin-bottom: 32px;
 }
 
 .our-team-subtitle {
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .our-team-text {
   text-align: center;
+  margin-bottom: 32px;
 }
 
 /* ---------------/ SECTION OUR TEAM------------------- */
@@ -181,6 +231,9 @@ address {
 /* --------------- SECTION OUR PORTFOLIO------------------- */
 
 .our-portfolio {
+  width: 1440px;
+  height: 1240px;
+  padding: 120px 156px;
 }
 
 .our-portfolio-title {
@@ -214,6 +267,13 @@ address {
 
 .footer {
   background: #2e2f42;
+   width: 1440px;
+  height: 312px;
+  padding-top: 100px;
+  padding-right: 1200px;
+  padding-bottom: 100px;
+  padding-left: 156px;
+
 }
 
 .footer-logo {
