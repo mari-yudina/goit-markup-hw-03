@@ -74,6 +74,7 @@ img {
 
 .header {
   width: 100vw;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 /* .header a{
@@ -87,6 +88,8 @@ img {
 }
 
 .header-navigation {
+  display: flex;
+  align-items: center;
 }
 
 .header-logo {
