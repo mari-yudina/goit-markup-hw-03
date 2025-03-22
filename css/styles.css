@@ -349,7 +349,6 @@ img {
 
 .footer-container {
   padding: 0;
-  max-width: 264px;
 }
 
 .footer-logo {
@@ -363,6 +362,7 @@ img {
 
 .footer-text {
   color: #f4f4fd;
+  max-width: 264px;
 }
 
 /* ---------------/ FOOTER------------------- */
