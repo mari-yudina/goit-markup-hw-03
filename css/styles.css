@@ -275,7 +275,7 @@ img {
 }
 
 .our-team-container {
-  padding: 32px auto;
+  padding: 32px 0;
 }
 
 .our-team-subtitle {
@@ -307,7 +307,7 @@ img {
   color: #2e2f42;
 
   margin: 0 auto;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .our-portfolio-list {
@@ -330,8 +330,7 @@ img {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
-  padding: 32px 0;
-  padding-left: 16px;
+  padding: 32px 16px;
 }
 
 .our-portfolio-subtitle {
@@ -356,6 +355,7 @@ img {
 }
 
 .footer-logo {
+  display: inline-block;
   margin-bottom: 16px;
 }
 
