@@ -232,7 +232,13 @@ img {
 }
 
 .our-team-title {
-  max-width: 162px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  max-width: 163px;
   margin: 0 auto;
   margin-bottom: 72px;
 }
@@ -286,7 +292,6 @@ img {
   text-align: center;
   color: #2e2f42;
 
-  max-width: 218px;
   margin: 0 auto;
   margin-bottom: 72px;
 }
@@ -307,7 +312,7 @@ img {
 }
 
 .portfolio-team-container {
-  max-width: 232px;
+  max-width: 360px;
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
@@ -321,7 +326,7 @@ img {
 .our-portfolio-text {
 }
 
-/* ---------------/ SECTION OUR TEAM------------------- */
+/* ---------------/ SECTION OUR PORTFOLIO------------------- */
 
 /* ---------------FOOTER------------------- */
 
