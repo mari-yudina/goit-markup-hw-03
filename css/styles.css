@@ -94,8 +94,7 @@ img {
 
 .header-logo {
   margin-right: 76px;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 0;
 }
 
 .header-logo-accent {
@@ -125,9 +124,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 0;
 }
 
 .header-address {
@@ -151,9 +148,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 0;
 }
 
 /* ---------------/ HEADER------------------- */
@@ -305,6 +300,8 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+
+  margin-bottom: 8px;
 
   margin: 0 auto;
   margin-bottom: 72px;
